@@ -8,3 +8,4 @@
 (toggle-scroll-bar -1)
 (tool-bar-mode -1)
 (load-theme 'spacemacs-dark t)
+(setq inhibit-startup-screen t)
